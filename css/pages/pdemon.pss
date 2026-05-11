@@ -10,17 +10,17 @@
     padding-right: 2rem;
 }
 
-.page-PDEMON .list {
+.page-PDEMON .PDEMON {
     table-layout: auto;
 }
-.page-PDEMON .list .rank {
+.page-PDEMON .PDEMON .rank {
     text-align: end;
     padding-right: 1rem;
 }
-.page-PDEMON .list .level {
+.page-PDEMON .PDEMON .level {
     width: 100%;
 }
-.page-PDEMON .list .level button {
+.page-PDEMON .PDEMON .level button {
     background-color: var(--color-background);
     color: var(--color-on-background);
     border: none;
@@ -31,16 +31,16 @@
     overflow-wrap: anywhere;
     cursor: pointer;
 }
-.page-PDEMON .list .level.error button {
+.page-PDEMON .PDEMON .level.error button {
     color: var(--color-error);
     cursor: not-allowed;
     text-decoration: line-through;
 }
-.page-PDEMON .list .level button:hover {
+.page-PDEMON .PDEMON .level button:hover {
     background-color: var(--color-background-hover);
     color: var(--color-on-background-hover);
 }
-.page-PDEMON .list .level.active button {
+.page-PDEMON .PDEMON .level.active button {
     background-color: var(--color-primary);
     color: var(--color-on-primary);
 }
