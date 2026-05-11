@@ -1,9 +1,9 @@
-.page-PDEMON .list-container,
+.page-PDEMON .PDEMON-container,
 .page-PDEMON .level-container,
 .page-PDEMON .meta-container {
     padding-block: 2rem;
 }
-.page-PDEMON .list-container {
+.page-PDEMON .PDEMON-container {
     padding-inline: 1rem;
 }
 .page-PDEMON .meta-container {
